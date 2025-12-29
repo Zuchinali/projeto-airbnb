@@ -1,0 +1,13 @@
+# Ambiente Virtual
+.venv/
+__pycache__/
+
+# Dados (Nunca versione dados brutos ou processados)
+data/
+
+# Configurações do VS Code e Sistema
+.vscode/
+.DS_Store
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
