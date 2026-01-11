@@ -16,7 +16,7 @@ O objetivo deste projeto é simular uma consultoria de investimentos "Data-Drive
 Utilizando dados públicos do _Inside Airbnb_, construí um pipeline que ingere, sanitiza e enriquece os dados brutos, culminando em um dashboard interativo que recomenda ativos específicos baseados em eficiência de capital.
 
 ---
-
+```markdown
 ## 📂 Estrutura do Projeto
 
 projeto-airbnb/
@@ -32,7 +32,7 @@ projeto-airbnb/
 ├── assets/              # Imagens e Prints
 ├── requirements.txt     # Dependências do Projeto
 └── README.md            # Documentação
-
+````
 ---
 
 ## ⚙️ Arquitetura e Engenharia de Dados
