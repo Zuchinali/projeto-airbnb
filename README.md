@@ -17,10 +17,8 @@ Utilizando dados públicos do _Inside Airbnb_, construí um pipeline que ingere,
 
 ---
 
-````markdown
 ## 📂 Estrutura do Projeto
 
-````text
 projeto-airbnb/
 ├── data/
 │   ├── raw/             # Dados brutos (GitIgnored)
